@@ -54,7 +54,7 @@
 
 		<BOUNDARYCONDITIONS>
 		<REGION REF="0">
-			<D VAR="u" VALUE="0.000416" />
+			<D VAR="u" VALUE="0.000291" />
 			<D VAR="v" VALUE= "0" />
 			<D VAR="c1" VALUE= "1" />
 			<N VAR="p" USERDEFINEDTYPE="H" VALUE="0" />  
